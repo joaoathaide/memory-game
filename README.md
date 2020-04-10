@@ -8,9 +8,10 @@
 
 <h4 align="center">
   The memory game is a classic game made up of pieces that feature a figure on one side. Each figure is repeated in two different pieces. To start the game, the pieces are placed with the figures facing downwards, so that they cannot be seen. Each participant must, in turn, turn two pieces and let everyone see them. If the figures are the same, the participant must collect this pair with him and play again. If they are different pieces, they must be turned over again, and the next participant must pass the turn. Whoever has the most pairs at the end of the game wins the game.
-    
-👉 [Link](https://joaoathaide.github.io/memory-game/) to play, have fun 😉
 </h4>
+
+👉 [Link](https://joaoathaide.github.io/memory-game/) to play, have fun 😉
+
 <p align="center">
   <a href="http://makeapullrequest.com">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
